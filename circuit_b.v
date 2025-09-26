@@ -6,6 +6,6 @@ module circuit_b(
 );
 
     // Enter logic equation here
-    assign Y = ~C & ~D | A & B | B & C & ~D;
+    assign Y = ~C & ~D | A & B | B & ~D;
 
 endmodule
