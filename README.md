@@ -25,4 +25,4 @@ The function of the Constraints file is to enable all of the switches and leds o
 
 ### 3 - Was the selection of Minterm and Maxterm correct for each circuit? What would you have chosen?
 
-The selection of Minterm and Maxterm was correct for each circuit. (idk what I would have chosen :<)
+The selection of Minterm and Maxterm was correct for each circuit. For circuit A, I like how it simplifies for Maxterms but I would rather do minterms because it would give me a simpler equation. For circuit B, I think I would have still done Maxterms because it would have made more grouping and would have simplified less.
